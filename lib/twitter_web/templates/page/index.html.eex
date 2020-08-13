@@ -1,0 +1,26 @@
+<div id="messages"></div>
+
+<input id="chat-input" type="text"></input>
+
+<input type="button" id="registerUser" value="Register Account" /> &nbsp;
+<input type="button" id="deleteUser" value="Delete Account" /> &nbsp;
+<div></div>
+<input type="button" id="sendTweet" value="Tweet" /> &nbsp;
+<input type="button" id="retweet" value="Retweet" /> &nbsp;
+<input type="button" id="addSubscribe" value="Subscribe" /> &nbsp;
+<div></div>
+<input type="button" id="querySubscribed" value="Query Subscribed" /> &nbsp;
+<input type="button" id="hashtag" value="Query Hashtag" /> &nbsp;
+<input type="button" id="mention" value="Query Mention" /> &nbsp;
+<h3>How to Use This Twitter:</h3>
+<ol>
+	<li><b>Register Account:</b> To register user, input your username and password with space in between. Then click <q>Register Account</q> to register. For example, if the username is <b>111</b>, password is <b>222</b>, input: <em><b>111 222</b></em></li>
+
+	<li><b>Delete Account:</b> To delete account, simply input the current user's password and click <q>Delete Account</q></li>
+	<li><b>Tweet:</b> Type in the tweet you want to send and click <q>Tweet</q> button to send a new tweet. Tweets can have hashtags (e.g. COP5615isgreat) and mentions(@bestuser).</li>
+	<li><b>Retweet:</b> Input the index number in the tweet list and click <q>Retweet</q> to retweet that tweet.</li>
+	<li><b>Subscribe:</b> Input the username you want to follow and click <q>Subscribe</q>.</li>
+	<li><b>Query Subscribed:</b> Simply click this button to see the users you subcribed.</li>
+	<li><b>Query Hashtag:</b> Input the name of hashtag topic (without the <q>#</q> symbol) and click <q>Query Hashtag</q> to see all related tweets for this topic. </li>
+	<li><b>Query Mention:</b> Input the username (without the <q>@</q> symbol) and click <q>Query Mention</q> to see all the tweets that mentioned that user.</li>
+</ol>
