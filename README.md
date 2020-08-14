@@ -1,4 +1,4 @@
-# Proj 4.2 - Twitter
+# Proj 4.2 - Twitter Simulator
 
 ## YouTube link for demo video:
 https://youtu.be/7eR-p9tnmZs 
